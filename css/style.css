@@ -11,12 +11,40 @@ body .header .collapse .navbar-bleu {
 }
 body .main {
   height: 90vh;
+  background-color: rgb(240, 240, 240);
 }
 body .main .main__form {
   width: 30rem;
-  height: 40rem;
+  height: 37rem;
+  background-color: white;
+}
+@media (max-width: 450px) {
+  body .main .main__form {
+    width: 20rem;
+  }
+}
+body .main .main__form .resaux {
+  background-color: rgb(216, 216, 216);
+}
+body .main .main__form .resaux .g {
+  background-color: white;
+}
+body .main .main__form .resaux .f {
+  background-color: #3b5998;
 }
 body .main .main__form .bouton-connection .btn {
+  background-color: #85b0cf;
+}
+body .inscription {
+  background-color: white;
+  width: 30rem;
+}
+@media (max-width: 450px) {
+  body .inscription {
+    width: 20rem;
+  }
+}
+body .inscription .bouton-bas {
   background-color: #85b0cf;
 }
 

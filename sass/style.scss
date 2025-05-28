@@ -46,6 +46,13 @@ body {
                 }
             }
         }
+
+        .image {
+            background-image: url(../images/bg.webp);
+            background-size: cover;
+            width: 70%;
+            height: 40rem;
+        }
     }
 
     .inscription {

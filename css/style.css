@@ -35,6 +35,12 @@ body .main .main__form .resaux .f {
 body .main .main__form .bouton-connection .btn {
   background-color: #85b0cf;
 }
+body .main .image {
+  background-image: url(../images/bg.webp);
+  background-size: cover;
+  width: 70%;
+  height: 40rem;
+}
 body .inscription {
   background-color: white;
   width: 30rem;

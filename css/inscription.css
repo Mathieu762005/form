@@ -15,7 +15,7 @@ body .main {
 }
 body .main .main__form {
   width: 50rem;
-  height: 37rem;
+  height: 39.5rem;
   background-color: white;
 }
 @media (max-width: 450px) {
@@ -24,7 +24,7 @@ body .main .main__form {
     height: 40rem;
   }
 }
-body .main .main__form .bouton-connection .btn {
+body .main .main__form .bouton-connection .bouton {
   background-color: #85b0cf;
 }
 body .inscription {

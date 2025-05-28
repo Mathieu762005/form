@@ -20,7 +20,7 @@ body .main .main__form {
 }
 @media (max-width: 450px) {
   body .main .main__form {
-    width: 20rem;
+    width: 22rem;
   }
 }
 body .main .main__form .resaux {

@@ -1,4 +1,22 @@
-.header .navbar {
+body {
+  width: 100%;
+  height: 100vh;
+}
+body .header .navbar {
+  background-color: #85b0cf;
+  height: 10vh;
+}
+body .header .collapse .navbar-bleu {
+  background-color: #85b0cf;
+}
+body .main {
+  height: 90vh;
+}
+body .main .main__form {
+  width: 30rem;
+  height: 40rem;
+}
+body .main .main__form .bouton-connection .btn {
   background-color: #85b0cf;
 }
 

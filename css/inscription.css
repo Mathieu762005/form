@@ -21,14 +21,20 @@ body .main .main__form {
 @media (max-width: 450px) {
   body .main .main__form {
     width: 25rem;
-    height: 56rem;
+    height: 53rem;
   }
 }
 body .main .main__form .bouton-connection .bouton {
   background-color: #85b0cf;
 }
+body .footer {
+  width: 100%;
+  height: 20vh;
+  background-color: #85b0cf;
+}
 body .inscription {
   background-color: white;
+  width: rem;
 }
 body .inscription .resaux {
   background-color: rgb(255, 255, 255);

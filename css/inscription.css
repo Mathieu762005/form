@@ -21,7 +21,7 @@ body .main .main__form {
 @media (max-width: 450px) {
   body .main .main__form {
     width: 25rem;
-    height: 53rem;
+    height: 56rem;
   }
 }
 body .main .main__form .bouton-connection .bouton {

@@ -16,7 +16,7 @@ body {
     }
 
     .main {
-        height: 90vh;
+        height: 80vh;
         background-color: rgb(240, 240, 240);
 
         .main__form {
@@ -53,6 +53,12 @@ body {
             width: 70%;
             height: 40rem;
         }
+    }
+
+    .footer {
+        width: 100%;
+        height: 20vh;
+        background-color: #85b0cf;
     }
 
     .inscription {

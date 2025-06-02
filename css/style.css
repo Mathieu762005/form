@@ -10,7 +10,7 @@ body .header .collapse .navbar-bleu {
   background-color: #85b0cf;
 }
 body .main {
-  height: 90vh;
+  height: 80vh;
   background-color: rgb(240, 240, 240);
 }
 body .main .main__form {
@@ -40,6 +40,11 @@ body .main .image {
   background-size: cover;
   width: 70%;
   height: 40rem;
+}
+body .footer {
+  width: 100%;
+  height: 20vh;
+  background-color: #85b0cf;
 }
 body .inscription {
   background-color: white;

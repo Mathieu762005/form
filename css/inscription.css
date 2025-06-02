@@ -15,13 +15,16 @@ body .main {
 }
 body .main .main__form {
   width: 50rem;
-  height: 42rem;
+  height: 44rem;
   background-color: white;
+}
+body .main .main__form .form-select {
+  width: 43%;
 }
 @media (max-width: 450px) {
   body .main .main__form {
     width: 25rem;
-    height: 53rem;
+    height: 60rem;
   }
 }
 body .main .main__form .bouton-connection .bouton {
